@@ -7,17 +7,17 @@
 
 # Main Page Setup
 
-title: Christian Di Spigna's Portfolio # This is what shows up in the tab of the browser
+title: John Doe's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: Christian Di Spigna
-headline: 
+name: John Doe
+headline: headline message
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am an electrical engineering student currently going into my senior year at Cedarville University.
-  I am passionate about research and am interested in either going to grad school upon graduation or joining the workforce. I have extensive
-  experience in manufacturing, software, and hardward.
+  Write an awesome intro and discuss your highlights and qualification. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
