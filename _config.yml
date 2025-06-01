@@ -33,7 +33,7 @@ resume-url: ./assets/resume/ChristianDiSpignaResume.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin:    /christian-di-spigna/ 
-  github: christiandispigna     https://github.com/christiandispigna
+  github: christiandispigna     christiandispigna
  # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
  # medium:            # https://medium.com/@{your url slug} 
  # x-twitter:   # https://x.com/{your url slug} 
@@ -57,11 +57,11 @@ skills:
     - Python
     - MATLAB/Simulink
     - VHDL
-  - category: Design Standards / Practices
+  - category: Soft Skills
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
+    - Team Player
+    - Hardworking
+    - Communication Skills 
   - category: PCB Design
     tools:
     - Altium Designer
