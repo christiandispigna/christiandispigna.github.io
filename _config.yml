@@ -21,7 +21,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
 
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/realAvatar.jpeg
 
 
 # Link your resume
@@ -46,15 +46,16 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: CAD
     tools:
-    - Solidworks
+    - Solidworks (3D Printing)
     - Fusion 360 (Autodesk)
-    - Altium
+    - Altium Designer (PCB Design)
   - category: Coding
     tools:
     - C
     - C++
     - Java
     - Python
+    - MATLAB/Simulink
     - VHDL
   - category: Design Standards / Practices
     tools:
