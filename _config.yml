@@ -33,7 +33,7 @@ resume-url: ./assets/resume/ChristianDiSpignaResume.pdf
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin:    /christian-di-spigna/ 
-  github: christiandispigna     christiandispigna
+  github: christiandispigna
  # stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
  # medium:            # https://medium.com/@{your url slug} 
  # x-twitter:   # https://x.com/{your url slug} 
