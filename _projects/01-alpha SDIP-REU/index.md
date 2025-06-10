@@ -9,6 +9,7 @@ skills:
   - Ultrasonic
   - Python
   - LabVIEW
+  - MATLAB
   - Machine Learning
   - Research papers and presentations
 
