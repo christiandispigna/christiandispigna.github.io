@@ -14,5 +14,5 @@ skills:
   - Research papers and presentations
 
 
-main-image: /project2.jpg
+main-image: /Tablet.jpg
 ---
