@@ -13,6 +13,5 @@ skills:
   - Machine Learning
   - Research papers and presentations
 
-
-main-image: /PosterPicture.jpg
+main-image: /PosterPicture.JPEG
 ---
